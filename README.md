@@ -1,4 +1,4 @@
 # Estudos
-- HoraEmTempoReal
-- ProgramaFodaoGeraSenhaEmNodao
-- VidaDoInimigoLua
+- HoraEmTempoReal - Python
+- ProgramaFodaoGeraSenhaEmNodao - Node.JS
+- VidaDoInimigoLua - Lua
