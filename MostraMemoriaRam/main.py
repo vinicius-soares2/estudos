@@ -41,3 +41,4 @@ while True:
 # NOME: VINICIUS SOARES
 # DATA: 13/11/2025
 # SOBRE: Monitador de memoria;
+#
