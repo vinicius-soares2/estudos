@@ -2,6 +2,7 @@
 /**
  * Gerador de senhas (Node.js)
  * Gera senhas com pelo menos uma letra maiúscula e um número.
+ *
  */
 
 import crypto from "crypto";
