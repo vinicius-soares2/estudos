@@ -9,5 +9,6 @@ local function atacar(inimigo, danoRecebido)
 	print(string.format("%s agora tem %d de vida. ", inimigo.nome, inimigo.vida))
 end
 
+--is a live 
 --chamando a funcao
 atacar(inimigo, 8)
